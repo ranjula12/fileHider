@@ -1,0 +1,12 @@
+E:\vs project\filehider\filehider\bin\Debug\filehider.exe.config
+E:\vs project\filehider\filehider\bin\Debug\filehider.exe
+E:\vs project\filehider\filehider\bin\Debug\filehider.pdb
+E:\vs project\filehider\filehider\obj\Debug\filehider.csprojResolveAssemblyReference.cache
+E:\vs project\filehider\filehider\obj\Debug\filehider.Form1.resources
+E:\vs project\filehider\filehider\obj\Debug\filehider.Properties.Resources.resources
+E:\vs project\filehider\filehider\obj\Debug\filehider.csproj.GenerateResource.Cache
+E:\vs project\filehider\filehider\obj\Debug\filehider.exe
+E:\vs project\filehider\filehider\obj\Debug\filehider.pdb
+E:\vs project\filehider\filehider\obj\Debug\filehider.Form2.resources
+E:\vs project\filehider\filehider\obj\Debug\filehider.Form3.resources
+E:\vs project\filehider\filehider\obj\Debug\filehider.Form4.resources
